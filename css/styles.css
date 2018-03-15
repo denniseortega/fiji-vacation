@@ -1,0 +1,10 @@
+h2{
+  font-weight: bold;
+  color: #718ebc;
+}
+.center{
+  display:block;
+  margin-right: auto;
+  margin-left: auto;
+  width: 50%
+}
